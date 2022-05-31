@@ -3,7 +3,7 @@
 
 Bu repo [Patika.dev](https://app.patika.dev/) ve [Kodluyoruz](https://www.kodluyoruz.org/) ekibinin **React Native ile Mobile App Patikası** eğitiminde oluşturduğum ilk repodur. İçerisinde bir adet README ve index.html dosyası bulunmaktadır.
 
-<a href="https://www.linkpicture.com/view.php?img=LPic629673b6c08521737982446"><img src="https://www.linkpicture.com/q/KodluyoruzIlkRepo.png" type="image"></a>
+<a href="https://www.linkpicture.com/view.php?img=LPic629678b8957422072984445"><img src="https://www.linkpicture.com/q/KodluyoruzIlkRepo_1.png" type="image"></a>
 
 ## Installation
 ---
